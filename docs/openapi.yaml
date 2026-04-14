@@ -3,6 +3,8 @@ info:
   title: Task API
   version: 1.0.0
 servers:
+  - url: https://task-api-7xto.onrender.com/api
+    description: Production server
   - url: http://localhost:3000
     description: Local development servers
 tags:
